@@ -40,7 +40,7 @@
 ## Github Stats
   📊 GitHub Profile Stats</summary>
   <div>
-    <a href="https://github.com/lucashenrique-dev">
+    <a href="https://github.com/ilgazalii">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashenrique-dev&hide=jupyter%20notebook&layout=compact&langs_count=7&theme=gotham" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucashenrique-dev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
     </a>
