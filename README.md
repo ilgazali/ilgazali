@@ -8,7 +8,7 @@
 - 🎯 I'm focused on developing my skills and learning new things
 - ⚡ Fun fact: I'm an peculiar programmer who programming whitout coffee
 ## 🔥 Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LucasHenrique-dev&theme=gotham&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ilgazali&theme=gotham&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ## My Skills
 <details>
     <summary>📚 Programming Languages</summary>
@@ -40,7 +40,7 @@
 ## Github Stats
   📊 GitHub Profile Stats</summary>
   <div>
-    <a href="https://github.com/ilgazalii">
+    <a href="https://github.com/ilgazali">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashenrique-dev&hide=jupyter%20notebook&layout=compact&langs_count=7&theme=gotham" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucashenrique-dev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
     </a>
