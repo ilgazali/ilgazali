@@ -11,7 +11,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ilgazali&theme=gotham&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ## My Skills
 <details>
-    <summary>📚 Programming Languages</summary>
+    <summary>📚 Programming Languages & Tools</summary>
     <img height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
     <img height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
