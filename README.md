@@ -39,12 +39,6 @@
 
 ## Github Stats
   📊 GitHub Profile Stats</summary>
-  <div>
-    <a href="https://github.com/ilgazali">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilgazali&hide=jupyter%20notebook&layout=compact&langs_count=7&theme=gotham" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilgazali&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
-    </a>
-  </div>
 <details>
     <summary>📈 Recent GitHub Activity</summary>
     <div>
