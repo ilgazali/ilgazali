@@ -40,14 +40,16 @@
    </div>
 
 
-## Contacts
+## Let's connect
+<h3 align="center">Connect with me</h3>
 <p align="center">
     <a href="mailto:ilgazalii@gmail.com">
-        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+        <img src="gmail.png" width="30"/>
     </a>
-    <a href="https://www.linkedin.com/in/lucashenrique-santos/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
+    <a href="https://www.linkedin.com/in/ilgazali/"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="LinkedIn Account" width="30"/></a>
+<a href="https://www.instagram.com/ilgazalii/"><img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="Instagram Account" width="30"/></a>
+    <a href="https://www.instagram.com/ilgazalii/"><img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="Medium Account" width="30"/></a>
+
 </p>
 
 <!--
