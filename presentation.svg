@@ -13,8 +13,8 @@
 				}
 
 					   .css-typing p:nth-child(1) {
-					    width: 25em;
-					    animation: type 5s steps(40, end);
+				width: 15em;
+				animation: type 5s steps(40, end);
 					    animation-fill-mode: forwards;
 					}
 
@@ -30,7 +30,7 @@
 					    width: 71em;
 					    opacity: 0;
 					    animation: type2 5s steps(40, end);
-					    animation-delay: 9s;
+					    animation-delay: 10s;
 					    animation-fill-mode: forwards;
 					}
 
