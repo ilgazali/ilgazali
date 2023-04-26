@@ -16,7 +16,7 @@
     <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/android/android-original-wordmark.svg" />
     <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kotlin/kotlin-original.svg" />
     <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" />
-     <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg" />
+    <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg" />
      <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" />
      <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" />
     <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/draft-release/icons/postman/postman-original.svg" />
