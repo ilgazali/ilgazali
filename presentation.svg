@@ -19,18 +19,14 @@
 				}
 
 				.css-typing p:nth-child(2) {
-					width: 36.2em;
-					opacity: 0;
-					animation: type2 8s steps(40, end);
-					animation-delay: 5s;
+					width: 20em;
+					animation: type 4s steps(40, end);
 					animation-fill-mode: forwards;
 				}
 
 				.css-typing p:nth-child(3) {
-					width: 70em;
-					opacity: 0;
-					animation: type2 8.2s steps(45, end);
-					animation-delay: 14s;
+					width: 20em;
+					animation: type 4s steps(40, end);
 					animation-fill-mode: forwards;
 				}
 
@@ -85,7 +81,7 @@
 			<div class="css-typing">
 				<p>I am Android Software Developer </p>
 				<p>I'm passionate about creating innovative apps that deliver great user experiences </p> 
-				<p>I'm always eager to learn new technologies and explore new ideas to push the boundaries of what's possible</p>
+				<p>I'm always eager to learn new technologies and explore new ideas to push the limits</p>
 				
 
 			</div>
