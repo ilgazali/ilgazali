@@ -11,7 +11,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ilgazali&theme=gotham&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ## My Skills
 
-<details>
+<details> 
+    <summary>📚 Programming Languages & Tools</summary>
     <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/android/android-original-wordmark.svg" />
     <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kotlin/kotlin-original.svg" />
     <img height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
@@ -30,20 +31,14 @@
 </details>
 
 
-## Github Stats
-  📊 GitHub Profile Stats</summary>
+##  📊 GitHub Profile Stats
+ 
    <div>
      <a href="https://github.com/ilgazali">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilgazali&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
      </a>
    </div>
-<details>
-    <summary>📈 Recent GitHub Activity</summary>
-    <div>
-        
-   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ilgazali&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)  
-    </div>
-</details>
+
 
 ## Contacts
 <p align="center">
