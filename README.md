@@ -48,7 +48,7 @@
     </a>
     <a href="https://www.linkedin.com/in/ilgazali/"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="LinkedIn Account" width="30"/></a>
 <a href="https://www.instagram.com/ilgazalii/"><img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="Instagram Account" width="30"/></a>
-    <a href="https://www.instagram.com/ilgazalii/"><img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="Medium Account" width="30"/></a>
+    <a href="https://medium.com/@ilgazalii"><img src="medium.png" alt="Medium Account" width="30"/></a>
 
 </p>
 
