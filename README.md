@@ -6,13 +6,12 @@
 - 💻 Most of my projects are available on [Github](https://github.com/LucasHenrique-dev?tab=repositories)
 - 🌱 I’m currently learning about back-end technologies
 - 🎯 I'm focused on developing my skills and learning new things
-- ⚡ Fun fact: I'm an peculiar programmer who programming whitout coffee
+- ⚡ Fun fact: I've traveled to 4 countries in just 10 hours with only 50 Euros
 ## 🔥 Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ilgazali&theme=gotham&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-## My Skills
 
-<details> 
-    <summary>📚 Programming Languages & Tools</summary>
+## 🛠 Programming Languages &  Tools
+<p>
     <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/android/android-original-wordmark.svg" />
     <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kotlin/kotlin-original.svg" />
     <img height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
@@ -28,7 +27,11 @@
     <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" />
     <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/slack/slack-original.svg" />
     <img height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-</details>
+</p>
+
+
+## 📕 Blog Posts
+- [How to use MongoDB in Ktor? ✨](https://medium.com/@ilgazalii/how-to-use-mongodb-in-ktor-6f9d70191316)
 
 
 ##  📊 GitHub Profile Stats
@@ -40,15 +43,21 @@
    </div>
 
 
-## Let's connect
+
+<hr/>
+
+<p align="center">
+
 <h3 align="center">Connect with me</h3>
 <p align="center">
     <a href="mailto:ilgazalii@gmail.com">
         <img src="gmail.png" width="30"/>
     </a>
     <a href="https://www.linkedin.com/in/ilgazali/"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="LinkedIn Account" width="30"/></a>
-<a href="https://www.instagram.com/ilgazalii/"><img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="Instagram Account" width="30"/></a>
     <a href="https://medium.com/@ilgazalii"><img src="medium.png" alt="Medium Account" width="30"/></a>
+    <a href="https://twitter.com/vaderwalkers"><img src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" alt="Twitter Account" width="35"/></a>
+<a href="https://www.instagram.com/ilgazalii/"><img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="Instagram Account" width="30"/></a>
+    
 
 </p>
 
