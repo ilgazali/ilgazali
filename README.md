@@ -2,10 +2,10 @@
 <img src="presentation.svg" width="800" height="200" alt="Presentation">
 
 ## About me
-- 👀 I'm interested in Artificial Intelligence and Virtual Reality
-- 💻 Most of my projects are available on [Github](https://github.com/LucasHenrique-dev?tab=repositories)
-- 🌱 I’m currently learning about back-end technologies
-- 🎯 I'm focused on developing my skills and learning new things
+- 💻 I’m currently working as a freelancer 
+- 🎯 I'm fully focused on developing my skills and learning new things everyday
+- 👀 I'm interested in Artificial Intelligence
+- 🌱 I’m currently learning about back-end technologies as well
 - ⚡ Fun fact: I've traveled to 4 countries in just 10 hours with only 50 Euros
 ## 🔥 Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ilgazali&theme=gotham&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
@@ -14,8 +14,8 @@
 <p>
     <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/android/android-original-wordmark.svg" />
     <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kotlin/kotlin-original.svg" />
+     <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" />
     <img height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-    <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" />
     <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain-wordmark.svg" />
     <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/draft-release/icons/git/git-original-wordmark.svg" />
     <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/draft-release/icons/ktor/ktor-original.svg" />
