@@ -27,7 +27,7 @@
     
     <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/draft-release/icons/intellij/intellij-original.svg" />
     <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/draft-release/icons/git/git-original-wordmark.svg" />
-     <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/slack/slack-original.svg" />
+    <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/slack/slack-original.svg" />
     <img height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
     
     <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original-wordmark.svg" />
