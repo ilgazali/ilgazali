@@ -22,7 +22,7 @@
 					    width: 44em;
 					    opacity: 0;
 					    animation: type2 5s steps(40, end);
-					  
+					    animation-delay: 6s;
 					    animation-fill-mode: forwards;
 					}
 
