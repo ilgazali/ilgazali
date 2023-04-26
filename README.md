@@ -1,5 +1,5 @@
 # Hi, I'm Muhammet Ali Ilgaz 👋
-<img src="presentation.svg" width="800" height="150" alt="Presentation">
+<img src="presentation.svg" width="800" height="120" alt="Presentation">
 
 ## About me
 - 💻 I’m currently working as a freelancer 
