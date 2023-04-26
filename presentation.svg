@@ -21,15 +21,15 @@
 					.css-typing p:nth-child(2) {
 					    width: 44em;
 					    opacity: 0;
-					    animation: type2 9s steps(40, end);
-					    animation-delay: 6s;
+					    animation: type2 5s steps(40, end);
+					  
 					    animation-fill-mode: forwards;
 					}
 
 					.css-typing p:nth-child(3) {
 					    width: 71em;
 					    opacity: 0;
-					    animation: type2 9s steps(45, end);
+					    animation: type2 5s steps(40, end);
 					    animation-delay: 15s;
 					    animation-fill-mode: forwards;
 					}
