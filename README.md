@@ -7,8 +7,6 @@
 - 👀 I'm interested in Artificial Intelligence
 - 🌱 I’m currently learning about back-end technologies as well
 - ⚡ Fun fact: I've traveled to 4 countries in just 10 hours with only 50 Euros
-## 🔥 Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ilgazali&theme=gotham&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## 🛠 Programming Languages &  Tools
 <p>
