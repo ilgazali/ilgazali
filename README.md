@@ -15,12 +15,10 @@
      <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" />
     <img height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
     <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain-wordmark.svg" />
-    <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/draft-release/icons/git/git-original-wordmark.svg" />
-    <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/draft-release/icons/ktor/ktor-original.svg" />
+    <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/develop/icons/git/git-original.svg" />
+    <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/develop/icons/ktor/ktor-original.svg" />
     <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original-wordmark.svg" /> 
-    <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/draft-release/icons/postman/postman-original.svg" />
-    <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/draft-release/icons/intellij/intellij-original.svg" />
-    <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg" />
+    <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/develop/icons/postman/postman-original.svg" />
     <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" />
     <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" />
     <img height="100px" width="100px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/slack/slack-original.svg" />
