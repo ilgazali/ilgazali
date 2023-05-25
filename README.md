@@ -30,15 +30,6 @@
 - [How to use MongoDB in Ktor? ✨](https://medium.com/@ilgazalii/how-to-use-mongodb-in-ktor-6f9d70191316)
 
 
-##  📊 GitHub Profile Stats
-  <img src="https://komarev.com/ghpvc/?username=ilgazali"/>
-   <div>
-     <a href="https://github.com/ilgazali">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilgazali&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
-     </a>
-   </div>
-
-
 
 <hr/>
 
