@@ -5,7 +5,7 @@
 - 💻 I’m currently working as a freelancer 
 - 🎯 I'm fully focused on developing my skills and learning new things everyday
 - 👀 I'm interested in Artificial Intelligence
-- 🌱 I’m currently learning about back-end technologies as well
+- 🌱 I’m currently working with back-end technologies as well
 - ⚡ Fun fact: I've traveled to 4 countries in just 10 hours with only 50 Euros
 
 ## 🛠 Programming Languages &  Tools
