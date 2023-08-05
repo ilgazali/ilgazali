@@ -2,10 +2,10 @@
 <img src="presentation.svg" width="800" height="120" alt="Presentation">
 
 ## About me
-- 💻 I’m currently working as a freelancer 
+- 💻 Software Engineer @Huawei
 - 🎯 I'm fully focused on developing my skills and learning new things everyday
 - 👀 I'm interested in Artificial Intelligence
-- 🌱 I’m currently working with back-end technologies as well
+- 🌱 I’m currently working with back-end technologies
 - ⚡ Fun fact: I've traveled to 4 countries in just 10 hours with only 50 Euros
 
 ## 🛠 Programming Languages &  Tools
